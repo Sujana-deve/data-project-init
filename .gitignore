@@ -1,5 +1,30 @@
+# Byte-compiled / Python cache files
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
 .venv/
+venv/
+env/
+ENV/
+
+# IDE & Editor settings
 .vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Generated SQLite database file
+*.db
+jobs.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Uncomment the line below if making the repo PUBLIC 
+# to keep raw company data hidden:
+# data/raw/upwork_raw_jobs.csv
