@@ -1,0 +1,7 @@
+1. Video & Animation is the biggest category (16 of 100 jobs). Top 3 categories together cover 39 jobs.
+2. Most requested skills: graphic design (12), social media marketing (11), video editing (9). Demand is design, video and marketing heavy, not coding.
+3. Fixed budgets are very skewed: median $100 but mean $585, max $11,000. Use the median.
+4. 19 of 50 hourly jobs (38%) show no rate range at all. Where a range exists, the median max rate is $25/hr.
+5. These are fresh postings: median 4 proposals per job, 61% have 5 or fewer. Early applicants face little competition.
+6. 21% of clients have no verified payment method. Worth filtering out when applying.
+Caveat: the data spans 2 distinct days and almost all rows come from one crawl, so real posting trends over time cannot be measured from this file.

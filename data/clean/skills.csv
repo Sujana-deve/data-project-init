@@ -1,0 +1,345 @@
+skill_id,name
+1,2d animation
+2,3d architectural rendering
+3,3d design
+4,3d floor plan
+5,3d modeling
+6,3d modeling & rendering services
+7,3d printing
+8,3d rendering
+9,a/b testing
+10,academic textbook
+11,account management
+12,administrative support
+13,adobe after effects
+14,adobe illustrator
+15,adobe indesign
+16,adobe photoshop
+17,adobe premiere pro
+18,advertising automation
+19,ai chatbot development tools
+20,ai model integration
+21,ai-generated video
+22,alibaba sourcing
+23,amazon web services
+24,android
+25,android app development
+26,apache kafka
+27,api
+28,api development
+29,api gateway & ai api integration
+30,api integration
+31,application integration
+32,appointment setting
+33,arabic
+34,architectural design
+35,article writing
+36,artificial intelligence
+37,artificial neural network
+38,audience segmentation & targeting
+39,automated workflow
+40,aws cloud architecture
+41,azure app service
+42,azure cognitive services
+43,azure openai service
+44,b2b marketing
+45,beta testing
+46,biostatistics
+47,book
+48,brand design
+49,brand guidelines
+50,brand identity
+51,brand identity design
+52,brand identity services
+53,branding
+54,business & corporate law skills
+55,business operations
+56,business plan
+57,business project management software
+58,camera
+59,campaign management
+60,campaign setup
+61,cantonese
+62,cantonese tutoring
+63,capcut
+64,caption
+65,chatgpt api
+66,chatgpt api integration
+67,chinese
+68,claude
+69,claude api
+70,clothing
+71,cloud security & iam
+72,cold call
+73,cold calling
+74,cold email
+75,commercial lease
+76,communications
+77,compliance testing
+78,computer network
+79,concept design
+80,consumer research
+81,content localization
+82,content writing
+83,copywriting
+84,corporate law
+85,corporate video
+86,cover art thumbnail
+87,creative writing
+88,crm automation
+89,css 3
+90,customer experience research
+91,customer onboarding services
+92,customer satisfaction
+93,customer service
+94,customer success
+95,customer support
+96,czech
+97,dance video
+98,dashboard
+99,data entry
+100,data mining
+101,database design
+102,decision making
+103,demo video
+104,devops
+105,devops & ci/cd
+106,digital marketing
+107,docker
+108,docker & kubernetes (eks)
+109,drafting
+110,dropshipping
+111,ecommerce
+112,ecommerce management services
+113,ecommerce support
+114,editorial design
+115,elearning video
+116,email automation
+117,email communication
+118,email copywriting
+119,email deliverability
+120,email marketing
+121,email support
+122,engineering & architecture
+123,engineering design
+124,english
+125,enterprise solution architecture
+126,epidemiology
+127,explainer video
+128,facebook
+129,facebook advertising
+130,fashion & apparel
+131,fashion & beauty
+132,fashion design
+133,female
+134,final cut pro
+135,financial analysis & valuation
+136,firebase
+137,firebase cloud firestore
+138,floor plan design
+139,flutter
+140,food packaging
+141,footage-based video
+142,footwear
+143,full-stack development
+144,functional testing
+145,game
+146,game design
+147,game development
+148,gan chinese
+149,google ads
+150,google analytics
+151,google review
+152,google sheets
+153,gpt api
+154,graphic design
+155,growth analytics
+156,growth strategy
+157,health & wellness
+158,help desk support
+159,helpdesk
+160,high fashion photography
+161,high-quality rendering
+162,hk2
+163,hong kong sign language
+164,html
+165,html5
+166,hybrid app development
+167,illustration
+168,image editing
+169,industrial design
+170,infrastructure as code
+171,infrastructure as code (terraform preferred)
+172,instagram
+173,instagram marketing
+174,instagram reels
+175,internet marketing
+176,investment banking
+177,investor list
+178,ios development
+179,javascript
+180,kubernetes
+181,label & packaging design
+182,layout design
+183,lead generation
+184,lead generation strategy
+185,lead management automation
+186,legal writing
+187,limited liability company
+188,linkedin campaign manager
+189,linkedin development
+190,linkedin marketing
+191,linkedin profile optimization
+192,list building
+193,location-based service
+194,logistics management
+195,logo
+196,logo design
+197,lottie
+198,lua
+199,lyrics video
+200,machine learning
+201,malayalam
+202,manual testing
+203,manufacturing & construction
+204,map integration
+205,markeing
+206,marketing analytics
+207,marketing strategy
+208,mechanical design
+209,mechanical engineering
+210,mechanical engineering services
+211,medical writing
+212,meta-analysis
+213,mexican spanish dialect
+214,microsoft 365 copilot
+215,microsoft active directory
+216,microsoft dynamics development
+217,microsoft excel
+218,microsoft power automate
+219,microsoft power automate administration
+220,microsoft powerapps
+221,microsoft sharepoint development
+222,milestones
+223,mobile app development
+224,mobile app localization
+225,mobile marketing automation
+226,monday.com
+227,mongodb
+228,my clients plus
+229,mystery shopping
+230,native fluency
+231,"networking (vpc, dns, vpn, load balancers)"
+232,new product innovation
+233,next.js
+234,node.js
+235,observability & production operations
+236,office 365
+237,online reputation management
+238,openai api
+239,openai codex
+240,operations analytics
+241,outbound call
+242,packaging design
+243,pay per click advertising
+244,pdf to excel
+245,personal branding
+246,phone communication
+247,photo editing
+248,photography
+249,postgresql
+250,power tool
+251,press distribution
+252,price & quote negotiation
+253,print design
+254,prisma guidline
+255,product design services
+256,product knowledge
+257,productive.io
+258,project management
+259,project management professional
+260,project management support
+261,project objectives
+262,project workflows
+263,prototype design
+264,prototype model
+265,prototyping deliverables
+266,public relations
+267,publication design
+268,python
+269,python (or go) backend development
+270,rapid prototyping
+271,react
+272,report
+273,reputation management
+274,romanian
+275,saas
+276,sales & marketing
+277,sales coaching
+278,sap s/4hana
+279,sap · sap s/4hana · sap pp · sap qm · pharmaceutical manufacturing · manufacturing · process mining · process intelligence · business process analysis · sap signavio · celonis · quality management
+280,science & medicine
+281,scientific publications
+282,script
+283,scripting
+284,search engine optimization
+285,seo backlinking
+286,seo keyword research
+287,seo writing
+288,shopify
+289,social media design
+290,social media graphic
+291,social media imagery
+292,social media management
+293,social media marketing
+294,social media marketing plan
+295,social media strategy
+296,social posts
+297,software qa
+298,software testing
+299,sourcing
+300,squarespace
+301,startup consulting
+302,steel detail drawing
+303,steel structure
+304,stock issuance
+305,structural analysis
+306,structural calculation sheet
+307,structural detailing
+308,structural drawing
+309,structural engineering
+310,t-shirt design
+311,teaching cantonese
+312,team alignment
+313,team management
+314,technical design
+315,technical support
+316,telemarketing
+317,textile design
+318,thumbnail
+319,travel & hospitality
+320,twitter/x marketing
+321,typescript
+322,typesetting
+323,ui animation
+324,usability testing
+325,user authentication
+326,user profile creation
+327,vectorworks
+328,versatile logo design
+329,video commercial
+330,video editing
+331,video post-editing
+332,video production
+333,virtual assistance
+334,web application
+335,web design
+336,web development
+337,web testing
+338,wix
+339,woman abaia
+340,writing
+341,yelp management
+342,youtube development
+343,youtube marketing
+344,youtube thumbnail
